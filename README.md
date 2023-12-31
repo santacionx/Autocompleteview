@@ -1,2 +1,2 @@
-!(home)[s1.png]
-!(search)[s2.png]
+![home](s1.png)
+![search](s2.png)
